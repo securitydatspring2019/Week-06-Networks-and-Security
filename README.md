@@ -9,7 +9,7 @@ Since all of you succeed in installing Virtual Box and Kali Linux last week,I wi
 But ideally (if not already done) install Virtual Box and Kali Linux as explained [last week](https://docs.google.com/document/d/1v7pbEsQ24a4B07UjtFP3_hywqMF7URCRSr9EgpD2bUE/edit?usp=sharing) before this lesson (remember to check the SHA256Sum for the kali-download)
 
 
-## What to Read OR Watch :information_source:
+## What to Read or Watch :information_source:
 :book: Read these sections from the [Wikipedia Article](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 - Key architectural principles
 - The sections describing each layer - Link Layer, Internet Layer, Transport Layer, Application Layer
@@ -26,7 +26,7 @@ OR
 # Thursday March 7 th.
 Today we will focus on posible attacks that can be made against individual layers/protols. We will do this to increase our knowledge about network monitoring with Wireshark, and while doing this, introduce new penetration testing tools.
 
-## What to Read :information_source:
+## What to Read or Watch :information_source:
 
 First of all, make sure you have completed most of the exercises + reflections from day-1 in this week. Then
 
