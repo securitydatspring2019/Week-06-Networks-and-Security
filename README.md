@@ -4,7 +4,7 @@ The purpose with this week is, to provide you with the minimal basic knowledge a
 
 # Wednesday March 6 th.
 ## What to Install :cd:
-Since most of you succeed in installing Virtual Box and Kali Linux last week, I will downgrade this from **red** to **green** since it will make the exercises for this week simpler to write (I only need to provide Linux-info).
+Since all of you succeed in installing Virtual Box and Kali Linux last week,I will assume you all have Kali installed for this week (I only need to provide Linux-info). If this is *NOT* true for you, you must [install Wireshark](https://www.wireshark.org/download.html) before this lesson for
 So install Virtual Box and Kali Linux as explained [last week](https://docs.google.com/document/d/1v7pbEsQ24a4B07UjtFP3_hywqMF7URCRSr9EgpD2bUE/edit?usp=sharing) before this lesson (remember to check the SHA256Sum for the kali-download)
 
 
