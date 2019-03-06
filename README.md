@@ -1,5 +1,7 @@
 # Week-06-Networks-and-Security (Wednesday, Thursday)
 
+[snippet](https://docs.google.com/document/d/1JeVxni4WxM2Kli7Nu68uioooiq4PnYOEeb1ZzMyQvsk/edit)
+
 The purpose with this week is, to provide you with the minimal basic knowledge about the TCP/IP stack and related network protocols (TCP, IP, DNS, DHCP and ARP), necessary to monitor network traffic and understand the possible attacks that can be made against these protocols.
 
 # Wednesday March 6 th.
