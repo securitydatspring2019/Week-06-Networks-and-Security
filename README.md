@@ -1,10 +1,10 @@
-# Week-06-Networks-and-Security (Wednesday, Thursday)
+# Week-06-Networks-and-Security (Thursday, Friday)
 
 [snippet](https://docs.google.com/document/d/1JeVxni4WxM2Kli7Nu68uioooiq4PnYOEeb1ZzMyQvsk/edit)
 
-The purpose with this week is, to provide you with the minimal basic knowledge about the TCP/IP stack and related network protocols (TCP, IP, DNS, DHCP and ARP), necessary to monitor network traffic and understand the possible attacks that can be made against these protocols.
+The purpose with this week (OBSERVE: Two days) is to provide you with the minimal basic knowledge about the TCP/IP stack and related network protocols (TCP, IP, DNS, DHCP and ARP), necessary to monitor network traffic and understand the possible attacks that can be made against these protocols.
 
-# Wednesday March 6 th.
+# Thuersday March 5 th.
 ## What to Install :cd:
 I will assume you all have Kali installed for this week (so I only need to provide Linux-info). If this is *NOT* true for you, you must [install Wireshark](https://www.wireshark.org/download.html) before this lesson.
 
@@ -23,7 +23,7 @@ OR
 ## Exercises :memo:
 [Investigating TCP/IP, DNS and DHCP with Wireshark](https://docs.google.com/document/d/1TWqiRRHUWRHJwSSt1riu84ErxndVuWE_VxXOz4gjhPI/edit?usp=sharing)
 
-# Thursday March 7 th.
+# Friday March 6th.
 Today we will focus on posible attacks that can be made against individual layers/protols. We will do this to increase our knowledge about network monitoring with Wireshark, and while doing this, introduce new penetration testing tools.
 
 ## What to Read or Watch :information_source:
