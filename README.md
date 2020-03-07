@@ -43,7 +43,7 @@ First of all, make sure you have completed most of the exercises + reflections f
 ## Exercises 
 [Network attacks](https://docs.google.com/document/d/1gVMriZKmrK3q3AlGntUY07_LIr0ABsAeS5vMGNd3dJY/edit?usp=sharing)
 
-## Lecture
+## Lecture :tv:
 [Recording of this lecture](https://www.youtube.com/playlist?list=PLDbigcKhXkiWySLQY568co4zuOrEl-NCL)
 
 
