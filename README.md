@@ -40,8 +40,11 @@ First of all, make sure you have completed most of the exercises + reflections f
 ## Slides
 [slides](https://docs.google.com/presentation/d/1Mkho-BqDRte2NXzaX5SNEQ-Bva2uejvd_LjKNlQwJjM/edit?usp=sharing)
 
-## Exercises :memo:
+## Exercises 
 [Network attacks](https://docs.google.com/document/d/1gVMriZKmrK3q3AlGntUY07_LIr0ABsAeS5vMGNd3dJY/edit?usp=sharing)
+
+## Lecture
+[Recording of this lecture](https://www.youtube.com/playlist?list=PLDbigcKhXkiWySLQY568co4zuOrEl-NCL)
 
 
 
